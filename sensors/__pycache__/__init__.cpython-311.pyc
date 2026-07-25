@@ -1,0 +1,13 @@
+§
+    Ÿ-_j¡  ã                   ó    — d Z ddlmZmZ d„ ZdS )us   
+Sensor factory â€” returns the right backend from config.py.
+Swap sensor by changing SENSOR_BACKEND in config.py.
+é    )ÚSENSOR_BACKENDÚWEBCAM_INDEXc                  ó  — t          j        ¦   «                              ¦   «         } | dk    rddlm}  |¦   «         S | dk    rddlm}  |t          ¦  «        S | dk    rdd lm	}  |¦   «         S t          d| › d	¦  «        ‚)
+NÚ	kinect_v2r   )ÚKinectV2SensorÚwebcam)ÚWebcamSensorÚ	simulated)ÚSimulatedSensorzUnknown SENSOR_BACKEND 'z('. Options: kinect_v2, webcam, simulated)
+r   ÚlowerÚstripÚsensors.kinect_v2r    Úsensors.webcamr	   r   Úsensors.simulatedr
+   Ú
+ValueError)Úbr    r	   r
+   s       ú8C:\Users\Admin\Desktop\DividingSpace\sensors\__init__.pyÚ
+get_sensorr       s·   € ÝÔÑÔ×$Ò$Ñ&Ô&€AØ ˆKÒ Ð Ø4Ð4Ð4Ð4Ð4Ð4Øˆ~ÑÔÐØ	
+ˆhŠˆØ/Ð/Ð/Ð/Ð/Ð/Øˆ|LÑ)Ô)Ð)Ø	
+ˆkÒ	Ð	Ø5Ð5Ð5Ð5Ð5Ð5ØˆÑ Ô Ð åÐ_°AÐ_Ð_Ð_Ñ`Ô`Ð`ó    N)Ú __doc__Úconfigr   r   r   © r   r   ú<module>r      sG   ððð ð 0Ð /Ð /Ð /Ð /Ð /Ð /Ð /ðað að að að ar   
