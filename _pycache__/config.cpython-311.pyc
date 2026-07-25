@@ -1,0 +1,38 @@
+§
+    2_j"  ã                   óâ   — d Z dZdZddgddgdd gddggZdZd	Zd
+Zd
+Z dZdZ	d
+Z
+dZ
+dZdZ
+dZdZdZdZdZdZdZdZdZdZg Zd
+ZdZdZdZdZdZdZd Z d!Z!d"Z"d#Z#dZ$dZ%d$Z&d%Z'd&Z(d'Z)d(Z*d%Z+d)Z,d*Z-d+Z.d,Z/d-Z0d.S )/z`
+DividingSpace Configuration
+-----------------------------
+All tunable parameters in one place.
+Úwebcamé    é   i{  é   i}  iÙ  iÛ  i€   i8  é7   é<   é   éª   é´   é‚   éF   i¼  i¸ˆ  gffffffÖ?gš™™™™™é?g       @Té   gš™™™™™©?é   é-   gš™™™™™É?gìQ¸…ëÁ?éÜ   )éõ   éð   éæ   )éZ   é¥   r   )éá   éx   éi   )éÿ   r   r   )é   r   r   )é   é#   r   é   )é–   r   r   é   éd   gÍÌÌÌÌÌÜ?i  )r   r   éP   )r   r    r   é   N)1Ú __doc__ÚSENSOR_BACKENDÚWEBCAM_INDEXÚTABLE_CORNERS_CAMÚPROJECTION_MONITORÚPROJ_WÚPROJ_HÚBLACK_PUCK_V_MAXÚBLACK_PUCK_S_MAXÚRED_PIN_H_LOW1ÚRED_PIN_H_HIGH1ÚRED_PIN_H_LOW2ÚRED_PIN_H_HIGH2Ú
+RED_PIN_S_MINÚ
+RED_PIN_V_MINÚ
+MIN_PUCK_AREAÚ
+MAX_PUCK_AREAÚMIN_CIRCULARITYÚMIN_SOLIDITYÚMAX_ASPECT_RATIOÚENABLE_NEW_TRACK_DEBOUNCEÚNEW_TRACK_CONFIRM_FRAMESÚNEW_TRACK_CONFIRM_DISTÚTABLE_MASK_MARGIN_PXÚTABLE_EXCLUSION_ZONESÚPOSITION_SMOOTH_FRAMESÚMAX_MISSING_FRAMESÚMAX_MATCH_DISTÚ
+LERP_SPEEDÚVERTEX_MATCH_DISTÚ
+TARGET_FPSÚBG_COLORÚBLACK_PUCK_CELL_COLORÚRED_PIN_CELL_COLORÚBORDER_COLORÚBORDER_OUTLINE_COLORÚBORDER_WIDTHÚBORDER_OUTLINE_WIDTHÚPUCK_DOT_COLORÚPUCK_DOT_RADIUSÚ
+PIN_DOT_COLORÚPIN_DOT_RADIUSÚSPARK_TOUCH_DISTÚ
+SPARK_COUNTÚSPARK_LIFETIMEÚ
+SPARK_SPEEDÚSPARK_COLOR_STARTÚSPARK_COLOR_ENDÚ
+SPARK_WIDTH© ó    ú.C:\Users\Admin\Desktop\DividingSpace\config.pyú<module>rW      sT  ððð ð €Ø€ð  ˆ€FØˆ!€HØˆ#€JØˆ€Hð	Ð ð Ð Ø	
+€Ø	
+€ð Ð ð Ð ð €Ø€Ø€Ø€Ø€
+Ø€
+ð €
+Ø€
+ð €Ø€ð Ð ð !Ð ØÐ ØÐ ð Ð ð
+ Ð ð Ð ØÐ Ø€à€
+ØÐ Ø€
+ð (€Ø&Ð Ø'Ð Ø'€Ø$Ð Ø€ØÐ Ø$€Ø€Ø%€
+Ø€ð Ð ð €
+Ø€Ø€
+Ø#Ð Ø#€Ø€
+€
+€
+rU   
